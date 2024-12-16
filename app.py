@@ -43,7 +43,7 @@ def init_db():
 
 # Define the rules for diagnosis with empathetic responses
 diagnosis_rules = [
-    {"question": "Halooo, Perkenalkan aku BublyMind🥰. Salam kenal yaa, kamu boleh ceritakan apa saja kepadaku lohh!! Sebelumnya Gimana kabar kamu nihh? 🤗🤗 Sebelumnya aku pengen tau tentang kamuuu, Apakah akhir-akhir ini kamu sedang ngerasa sedih atau kosong? Semoga tidak yaa", 
+    {"question": "Halooo, Perkenalkan aku BublyMind🥰. Salam kenal yaa, kamu boleh ceritakan apa saja kepadaku lohh!! BTW Gimana kabar kamu nihh? 🤗🤗 Sebelumnya aku pengen tau tentang kamuuu, Apakah akhir-akhir ini kamu sedang ngerasa sedih atau kosong? Semoga tidak yaa", 
      "key": "kesedihan", 
      "positive_response": "Merasa sedih itu wajar, tapi kalau terus-menerus, bisa jadi tanda depresi ringan.",
      "response": "Kamu mungkin mengalami gejala awal depresi."},
